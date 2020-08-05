@@ -12,7 +12,7 @@ Stress among college students can be overwhelming and can affect many areas of a
 
 1. Overall findings from comparing STEM with NON-STEM majors.
 2. What are some factors that may impact the level of stress for STEM and Non-STEM students?
-3. Over findings from Q2.1-Q2.5 and Q3.1-Q3.24.
+3. Over findings from Q2.1 - Q2.5 and Q3.1 - Q3.24.
 4. Overall findings from each of the 2 open-ended questions. (HelpFactor & InbibitFactor)
 5. Hypothesis Testing
 
@@ -32,7 +32,9 @@ We normalized the data and performed heatmap() function and built two heatmaps g
 
 We also used the text mining wordcloud() function to build two word cloud graphs to show the most frequent words of students' responses of the two open-ended questions: 
 1. Please describe the factors that have helped you succeed academically, socially, emotionally, or otherwise at UCLA? It would be great if you can provide us with examples or tell us a story about something that happened. 
-2. Please describe the factors that have inhibited your success academically, socially, emotionally, or otherwise at UCLA? It would be great if you can provide us with examples or tell us a story about something that happened.## Hypothesis Testing
+2. Please describe the factors that have inhibited your success academically, socially, emotionally, or otherwise at UCLA? It would be great if you can provide us with examples or tell us a story about something that happened.
+
+## Hypothesis Testing
 
 - H0: The mean stress level among STEM and NON-STEM students are the same.
 - HA: The mean stress level among STEM and NON-STEM students are different.
