@@ -3,7 +3,7 @@ Members: Mengxuan Sun, Yuqing Yang, Xinyi Wang, Chengcheng Xu
 
 ## Goal
 
-Explore hich variables affect the level of stress among STEM students and NON-STEM students
+Explore which variables affect the level of stress among STEM students and NON-STEM students
 
 ## Background
 Stress among college students can be overwhelming and can affect many areas of a student’s life. Different majors lead to different levels of workload and cause different levels of stress. There are two main divisions of major selection nowadays: STEM and NON-STEM. STEM stands for science, technology, engineering, and math. In the survey, students report if they study STEM majors or not. Students also evaluate their own stress levels at the end of the questionnaire.
